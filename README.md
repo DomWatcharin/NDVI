@@ -46,6 +46,6 @@ This script plots the clipped NDVI and exports the plot to a PNG file.
 
 - NDVI plot saved as: `ndvi/ndvi_plot.png`
 
-![Clipped NDVI](https://github.com/DomWatcharin/NDVI/blob/206b39a5792188ae754a2b559821be785fe2044d/ndvi/ndvi_clip.tif)https://github.com/DomWatcharin/NDVI/blob/206b39a5792188ae754a2b559821be785fe2044d/ndvi/ndvi_clip.tif)
+![Clipped NDVI](https://github.com/DomWatcharin/NDVI/blob/1a2a4da85c7cc3ac64e732d08bb2253ac5e55120/ndvi/ndvi_clip.png)
 
 ![NDVI Plot](https://github.com/DomWatcharin/NDVI/blob/206b39a5792188ae754a2b559821be785fe2044d/ndvi/ndvi_plot.png)
